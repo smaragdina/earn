@@ -1,3 +1,5 @@
+https://store.nethunter.com/NetHunterStore.apk
+
 termux-setup-storage
 
 termux-wake-lock
